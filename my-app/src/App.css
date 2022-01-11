@@ -1,5 +1,4 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+.App {
+  text-align: center;
+}
 
-@import url('http://fonts.cdnfonts.com/css/helvetica-neue-9');
